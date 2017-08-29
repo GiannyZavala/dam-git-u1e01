@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hola 9999
+||||||| merged common ancestors
+hola
+=======
+hola 444
+>>>>>>> master
